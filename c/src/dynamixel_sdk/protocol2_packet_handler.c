@@ -90,7 +90,7 @@ void printTxRxResult2(int result)
       break;
 
     case COMM_RX_WAITING:
-      printf("[TxRxResult] Now recieving status packet!\n");
+      printf("[TxRxResult] Now receiving status packet!\n");
       break;
 
     case COMM_RX_TIMEOUT:

@@ -70,7 +70,7 @@
 #define COMM_TX_FAIL        -1001   // Failed transmit instruction packet
 #define COMM_RX_FAIL        -1002   // Failed get status packet
 #define COMM_TX_ERROR       -2000   // Incorrect instruction packet
-#define COMM_RX_WAITING     -3000   // Now recieving status packet
+#define COMM_RX_WAITING     -3000   // Now receiving status packet
 #define COMM_RX_TIMEOUT     -3001   // There is no status packet
 #define COMM_RX_CORRUPT     -3002   // Incorrect status packet
 #define COMM_NOT_AVAILABLE  -9000   //
