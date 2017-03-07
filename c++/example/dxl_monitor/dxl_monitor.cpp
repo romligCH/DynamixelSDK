@@ -116,7 +116,7 @@ void usage(char *progname)
   printf("-----------------------------------------------------------------------\n");
   printf("Usage: %s\n", progname);
   printf(" [-h | --help]........: display this help\n");
-  printf("[-d | --device]......: port to open\n");
+  printf(" [-d | --device]......: port to open\n");
   printf("-----------------------------------------------------------------------\n");
 }
 
